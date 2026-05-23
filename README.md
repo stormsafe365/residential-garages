@@ -1,2 +1,0 @@
-# residential-garages
-residential garages
